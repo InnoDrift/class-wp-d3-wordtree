@@ -5,6 +5,21 @@
 	"homepage": "http://innodrift.com",
 	"repository": {
 		"type": "git",
-		"url": ""
+		"url": "git@github.com:InnoDrift/class-wp-d3-wordtree.git"
+	},
+	"bugs": {
+		"url": "https://github.com/InnoDrift/class-wp-d3-wordtree/issues"
+	},
+	"licenses": [
+	{
+		"type": "MIT",
+		"url": "http://opensource.org/licenses/MIT"
+	}
+	],
+	"engines": {
+		"node": ">= 0.10.0"
+	},
+	"devDependencies": {
+		"grunt": "~0.4.5"
 	}
 }
