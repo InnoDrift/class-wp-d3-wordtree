@@ -1,0 +1,10 @@
+{
+	"name": "wp-d3-wordtree",
+	"version": "1.0",
+	"author": "Innodrift",
+	"homepage": "http://innodrift.com",
+	"repository": {
+		"type": "git",
+		"url": ""
+	}
+}
